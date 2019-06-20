@@ -4,4 +4,4 @@ if(b=='A' or b=='a' or b=='E'or b=='e' or b=='I' or b=='i' or b=='O'or b=='o' or
 elif(b=='$'):
     print("invalid")
 else:
-    print("Constant")
+    print("Consonant")
