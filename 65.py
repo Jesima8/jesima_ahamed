@@ -1,2 +1,2 @@
-a=input()
-print(a)
+aks=input()
+print(aks)
