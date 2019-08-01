@@ -1,5 +1,5 @@
-n=int(input())
-if(n%2==0):
-    print(n)
+nas=int(input())
+if(nas%2==0):
+    print(nas)
 else:
-    print(n-1)
+    print(nas-1)
